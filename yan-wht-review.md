@@ -98,7 +98,7 @@
 > 참고로 이 프로젝트는 vue를 사용했다.
 - data 상태별로 그룹핑하기
     - data를 status별로 그룹핑해보자!
-  > ```
+  > ```js
   > const arrReservedList = [
 	>   {
 	>	  id: 76,
@@ -130,7 +130,7 @@
   > ```
 - 상품 검색결과 데이터 캐싱 처리
   - store를 통해 data에 상태를 관리하고 불필요한 api 통신을 최소화하자!
-  > ```
+  > ```js
   > // data를 store에 저장하기 실행
   > const data = [{ data1 }, { data2 }];
   > const key = 키 생성;
