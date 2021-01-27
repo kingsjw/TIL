@@ -96,8 +96,8 @@
 
 ## 2. 개발한 것중 기억에 남는 것
 > 참고로 이 프로젝트는 vue를 사용했다.
-- data 상태별로 그룹핑하기
-    - data를 status별로 그룹핑해보자!
+- data 그룹핑하기
+    - 아래와 같은 data를 id와 status가 같은거끼리 그룹핑해보자!
   > ```js
   > const arrReservedList = [
 	>   {
@@ -122,7 +122,7 @@
   >   }
   > ), {});
   > console.log(arrReservedList);
-  > // 결과: 요런식으로 그룹핑이 되었다. 새삼 느끼는거지만 reduce는 정말 편리하다.
+  > // 결과: 짜잔 요렇게 그룹핑이 되었다. 새삼 느끼는거지만 reduce는 정말 편리하다.
   > {
   >   { 76-canceld: [{ id: 76, status: "canceld", name: "상품1" }]},
   >   { 76-reserved: [{ id: 76, status: "reserved", name: "상품1" }, { id: 76, status: "reserved", name: "상품1" }]}
