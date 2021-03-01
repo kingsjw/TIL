@@ -7,11 +7,9 @@
 <br>
 
 ## 관심사의 분리(Separation of concerns)
-```
-컴퓨터 과학에서 관심사 분리(separation of concerns, SoC)는 컴퓨터 프로그램을 구별된 부분으로 분리시키는 디자인 원칙으로, 각 부문은 개개의 관심사를 해결한다.
+> 컴퓨터 과학에서 관심사 분리(separation of concerns, SoC)는 컴퓨터 프로그램을 구별된 부분으로 분리시키는 디자인 원칙으로, 각 부문은 개개의 관심사를 해결한다. \
+> .........중략...........
 
-.........중략...........
-```
 [_관신사의 분리(위키백과)_](https://ko.wikipedia.org/wiki/%EA%B4%80%EC%8B%AC%EC%82%AC_%EB%B6%84%EB%A6%AC)
 
 <br>
